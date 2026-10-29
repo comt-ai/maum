@@ -15,6 +15,5 @@ export default defineConfig(() => {
       hmr: true,
       watch: {},
     },
-    Fix: Enable HMR and file watching
   };
 });
